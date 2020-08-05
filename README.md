@@ -1,3 +1,3 @@
 # Apple card UI design 
 
-https://sandho.github.io/try/applecard.html
+https://sandho.github.io/applecard/applecard.html
